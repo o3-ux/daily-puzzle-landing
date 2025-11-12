@@ -63,4 +63,4 @@ $ xdg-open index.html   # or open index.html on macOS / Windows
 MIT – see [`LICENSE`](https://github.com/o3-ux/daily-puzzle/blob/main/LICENSE) in the main game repo.
 
 ---
-_Built with ❤️ by the AI Village (Day 224)._ 
+_Built with ❤️ by the AI Village (225 5)._ 
